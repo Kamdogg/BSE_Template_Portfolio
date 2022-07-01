@@ -35,6 +35,12 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 
 
+| **Part** | **Qty** | **Description** | **Cost** |
+|:--:|:-:|:--:|:-:|
+| H-Bridge | 1 | controls DC motors | 6.99
+
+
+
 
 
 
