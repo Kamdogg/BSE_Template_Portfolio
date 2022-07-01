@@ -25,6 +25,8 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 [![First Milestone]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0oDf7IUYQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Schematics
+
 
 
 
@@ -37,6 +39,7 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 | **Part** | **Qty** | **Description** | **Cost** |
 |:--:|:-:|:--:|:-:|
+| Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. |
 | H-Bridge | 1 | controls DC motors | 6.99
 
 
