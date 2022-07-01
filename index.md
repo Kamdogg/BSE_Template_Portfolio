@@ -22,6 +22,25 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 
 Materials: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Arduino UNO
 Arduino Micro 
 HC-05 Bluetooth Module 
