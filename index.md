@@ -1,5 +1,5 @@
 ﻿# Gesture Control Robot
-This project uses the gestures of your hand movements to control the direction and speed of the car 
+This project uses the gestures of your hand movements to control the direction and speed of the car. Using an accelerometer to read the gestures from
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Kameron N | Courtland Highschool | Electrical Engineering | Incoming Senior
@@ -17,3 +17,11 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 [![First Milestone]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0oDf7IUYQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Materials: 
+Arduino UNO
+Arduino Micro 
+HC-05 Bluetooth Module 
+DC Motor 
+Soldering iron
+Screwdriver 
+ADXL345 Acclerometer 
