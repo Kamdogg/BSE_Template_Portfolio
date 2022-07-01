@@ -44,10 +44,12 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 
 
-Arduino UNO
-Arduino Micro 
-HC-05 Bluetooth Module 
-DC Motor 
-Soldering iron
+Arduino UNO,
+Arduino Micro, 
+HC-05 Bluetooth Module, 
+DC Motor, 
+Soldering iron,
 Screwdriver 
-ADXL345 Acclerometer 
+ADXL345 Acclerometer,
+Qunqi L298N Motor Drive Controller Board Module Dual H Bridge,
+Multi colored wires, 
