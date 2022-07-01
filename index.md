@@ -27,38 +27,16 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 # Schematics
 
-
-
-
-
-
-
 # Materials
-
-
 
 | **Part** | **Qty** | **Description** | **Cost** | **Site**
 |:--:|:-:|:--:|:-:|:-:|
 | Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. |
 | H-Bridge | 1 | controls DC motors | 6.99
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Tools Required 
+| **Tool** | **Cost** | **Site** |
+|:--:|:-:|:-:|
+| Soldering Kit | 20.99 | [amazon](https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/)
 
 
 Arduino UNO,
