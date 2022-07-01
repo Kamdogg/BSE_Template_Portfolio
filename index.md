@@ -24,15 +24,7 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 
 
-
-
-
-
-
-
-
-
-[!Materials:] 
+# Materials
 
 
 
