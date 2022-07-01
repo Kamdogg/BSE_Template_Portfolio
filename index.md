@@ -37,6 +37,7 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 | **Tool** | **Cost** | **Site** |
 |:--:|:-:|:-:|
 | Soldering Kit | 20.99 | [amazon](https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/)
+| Screwdriver Kit | 6.99 | [amazon](https://www.amazon.com/Small-Screwdriver-Set-Mini-Magnetic/dp/B08RYXKJW9/) 
 
 
 Arduino UNO,
