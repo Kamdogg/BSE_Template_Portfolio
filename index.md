@@ -33,7 +33,7 @@ My first milestone was configuring the accelerometer to to my arduino uno allowi
 
 | **Part** | **Qty** | **Description** | **Cost** | **Site**
 |:--:|:-:|:--:|:-:|:-:|
-| Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. |
+| Robot Kit | 1 | chassis, battery pack, DC motors, wheels, ect. | 19.99 | [amazon](https://www.amazon.com/gp/product/B06VTP8XBQ/)
 | Arduino Micro| 1 | microcontroller board | 19.44 | [amazon](https://www.amazon.com/Arduino-Micro-Headers-A000053-Controller/dp/B00AFY2S56/ref=sxin_24_ac_d_mf_brs?ac_md=1-0-QXJkdWlubw%3D%3D-ac_d_mf_brs_brs&content-id=amzn1.sym.6b0ccabb-f0a5-41c0-b8ab-e3d0522dfb7d%3Aamzn1.sym.6b0ccabb-f0a5-41c0-b8ab-e3d0522dfb7d&crid=3UO1VODGVNPO7&cv_ct_cx=Arduino+Micro&keywords=Arduino+Micro&pd_rd_i=B00AFY2S56&pd_rd_r=91911c6f-d855-4425-aaf2-f7735bfd5b36&pd_rd_w=OLXf2&pd_rd_wg=aHsRk&pf_rd_p=6b0ccabb-f0a5-41c0-b8ab-e3d0522dfb7d&pf_rd_r=G4JY1NFDRFHR60JCZGD4&psc=1&qid=1656709108&sprefix=arduino+mic%2Caps%2C192&sr=1-1-8b2f235a-dddf-4202-bbb9-592393927392)
 | Arduino UNO | 1 | main programming board | 25.94 | [amazon](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?crid=2OE11U49IY91O&keywords=Arduino+Uno&qid=1656709365&s=electronics&sprefix=arduino+uno%2Celectronics%2C88&sr=1-3) 
 | H-Bridge | 1 | controls DC motors | 5.99 | [amazon](https://www.amazon.com/Solu-Stepper-Controller-H-Bridge-Mega2560/dp/B00YZV80C0/ref=sr_1_20?crid=35MV4PC2M2ESG&keywords=h+bridge&qid=1656709561&s=hi&sprefix=h+bridge%2Ctools%2C88&sr=1-20) 
